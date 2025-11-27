@@ -24,8 +24,8 @@ Gambar-gambar di folder ini digunakan untuk:
 
 ## 📷 Skema Koneksi
 
-  ![Skema Koneksi](https://github.com/Frendi-X/Videotron-SMKN-1-Geger-Madiun/blob/main/image/1.%20P2.5_2046AP_7258_32S.png)
-  ![Skema Koneksi](https://github.com/Frendi-X/Videotron-SMKN-1-Geger-Madiun/blob/main/image/2.%20Connection%20Settings%20-%202%20NetPort.png)  
+  ![Skema Koneksi](https://github.com/Frendi-X/Videotron-Univ-PGRI-Madiun/blob/main/image/1.%20P2.5_3364S_32020B_32S.png)
+  ![Skema Koneksi](https://github.com/Frendi-X/Videotron-Univ-PGRI-Madiun/blob/main/image/2.%20Connection%20Settings%20-%202%20NetPort.png)  
 
 ---
 
