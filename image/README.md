@@ -31,9 +31,8 @@ Gambar-gambar di folder ini digunakan untuk:
 
 ## 📷 Dokumentasi
 
-  ![Dokumentasi](https://github.com/Frendi-X/Videotron-SMKN-1-Geger-Madiun/blob/main/image/Instalasi%20Videotron%20SMKN%201%20Geger.jpeg)
-  ![Dokumentasi](https://github.com/Frendi-X/Videotron-SMKN-1-Geger-Madiun/blob/main/image/Instalasi%20Videotron%20SMKN%201%20Geger%20(2).jpeg)
-  ![Dokumentasi](https://github.com/Frendi-X/Videotron-SMKN-1-Geger-Madiun/blob/main/image/Videotron%20SMKN%201%20Geger.jpeg)
+  ![Dokumentasi](https://github.com/Frendi-X/Videotron-Univ-PGRI-Madiun/blob/main/image/Instalasi%20Videotron.jpg)
+  ![Dokumentasi](https://github.com/Frendi-X/Videotron-Univ-PGRI-Madiun/blob/main/image/Videotron%20Universitas%20PGRI%20Madiun.jpg)
 
 
 ---
